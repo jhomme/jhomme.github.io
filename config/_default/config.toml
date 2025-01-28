@@ -1,0 +1,28 @@
+title = "Music Production And Recording Notes"
+baseURL = "http://jhomme.github.io"
+languageCode = "en-us"
+# enableInlineShortcodes = "false"
+
+Description = "Centralized notes to refer to when recording and producint music with Logic Pro"
+
+enableGitInfo = "true"
+# theme = "basic"
+# googleAnalytics = ""
+# [permalinks]
+# blog = "/:filename/"
+
+[Params]
+author = "Jim Homme"
+
+[[menu.main]]
+	name = "Home"
+identifier = "Home"
+	url = "/"
+weight = -100
+
+[[menu.main]]
+ 	name = "About"
+identifier = "About"
+	url = "/about/"
+weight = -90
+

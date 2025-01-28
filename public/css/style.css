@@ -1,0 +1,12 @@
+.logo {
+    display: block;
+    max-width: 200px; /* Adjust as needed */
+    height: auto;
+    margin: 20px auto;
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #f0f0f0;
+}
