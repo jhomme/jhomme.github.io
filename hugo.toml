@@ -1,0 +1,4 @@
+﻿theme = 'ananke'
+baseURL = 'https://jhomme.github.io'
+locale = 'en-us'
+title = 'My New Hugo Project'
